@@ -16,7 +16,7 @@ Martinez Lozano Cecilia
 Dkiouak El Bourni Dkiouak Salma 
 Li Xiaohui
 
-**Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas con enfermedades mentales, creando así una comunidad de apoyo y a la vez motivador e inspirador para mejorar la salud mental.
+**Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas con enfermedades mentales, creando así una comunidad de apoyo, a la vez motivador e inspirador para mejorar la salud mental.
 
 **logotipo** : ![TIME FOR LIFE/Escucha y sé escuchado](https://user-images.githubusercontent.com/81180479/112031833-0e59d900-8b3c-11eb-8d7f-da2d5a1df61a.png)
 
