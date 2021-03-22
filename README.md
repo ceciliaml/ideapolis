@@ -1,21 +1,101 @@
-# TIME FOR LIFE
+## (Nombre del proyecto)  
+
+(Plantilla para la creación de un proyecto en ideapolis)
+
+Proyecto de Inteligencia Colectiva y Formación en la Empresa 
+[Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
+ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
+
+----
+
+**Titulo** : _______
+
+**Autor(es)** ______________
+
+**Resumen** : _________
+
+**logotipo** :  ________
+
+**Slogan** (frase motivadora/inspiradora): ________
+
+**Hashtag**  ___
+
+**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+
+**Fecha** : 2021
+
+**Medios** (donde se tiene presencia): 
 
 
-Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y Formación de en la Empresa 
-
-## Contenidos: 
-
-- [Plantilla de proyecto](https://github.com/mgea/ideapolis/blob/main/plantilla.md) 
-
-
-## Proyectos previos: 
-
-2021 - [Escape - travel blog](https://github.com/danielangeles29/ideapolis) de MGTPN-Melilla 
-
-2019 - [SherlockFakes](https://utopolis.ugr.es/ideapolis/sherlockfakes-2019/) de MGTPN-Melilla
-
-[Otros](https://utopolis.ugr.es/ideapolis/category/proyectos/) 
+*  :octocat: (github url) 
+* Twitter 
+* ... 
 
 
 
+--- 
 
+### Metodología
+
+Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+
+### Etapa 1: Ideación de proyecto 
+
+Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+
+**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+
+* @LadyDistopia (link) ...¿ por qué ?
+* (...)
+* 
+
+
+**Necesidad/oportunidad** 
+
+**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+
+**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+
+
+
+
+
+### Etapa 2: Prototipar / productos 
+
+(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+
+* redes sociales (...) 
+
+* publicidad: banner (... ) 
+
+* ...
+
+### Etapa 3: Técnicas de evaluación utilizadas
+
+(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+
+* Test con usuarios (...) 
+* ... 
+
+
+
+
+
+### Conclusiones y trabajo futuro
+
+
+* Grado de consecución del proyecto 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Propuestas de mejora (por qué consideras que merece la pena continuar)
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+
+
+Referencias y recursos: 
+
+* Artículos ..  
+* Productos utilizados  
+* Propuestas de mejora
+
+(...)
