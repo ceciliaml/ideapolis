@@ -11,10 +11,12 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : TIME for LIFE
 
-**Autor(es)** Gil Pastor Ignacio
-Martinez Lozano Cecilia
-Dkiouak El Bourni Dkiouak Salma 
-Li Xiaohui
+**Autor(es)** 
+
+* Gil Pastor Ignacio
+* Martinez Lozano Cecilia
+* Dkiouak El Bourni Dkiouak Salma 
+* Li Xiaohui
 
 **Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas con enfermedades mentales, creando así una comunidad de apoyo, a la vez motivador e inspirador para mejorar la salud mental.
 
