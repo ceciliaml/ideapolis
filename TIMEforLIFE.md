@@ -1,4 +1,5 @@
-## (Nombre del proyecto)  
+## TIME for LIFE 
+### ESCUCHA Y SÉ ESCUCHADO ##
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
@@ -8,17 +9,21 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : TIME for LIFE
 
-**Autor(es)** ______________
+**Autor(es)** Gil Pastor Ignacio
+Martinez Lozano Cecilia
+Dkiouak El Bourni Dkiouak Salma 
+Li Xiaohui
 
-**Resumen** : _________
+**Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas con enfermedades mentales, creando así una comunidad de apoyo y a la vez motivador e inspirador para mejorar la salud mental.
 
-**logotipo** :  ________
+**logotipo** : ![TIME FOR LIFE/Escucha y sé escuchado](https://user-images.githubusercontent.com/81180479/112031833-0e59d900-8b3c-11eb-8d7f-da2d5a1df61a.png)
 
-**Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Slogan** (frase motivadora/inspiradora): LIFE, escucha y sé escuchado
+
+**Hashtag**  #LIFE #escuchayséescuchado #TIMEforLIFE
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -27,8 +32,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
-* Twitter 
+*  :octocat: (https://github.com/ceciliaml/ideapolis) 
+* Instagram
 * ... 
 
 
