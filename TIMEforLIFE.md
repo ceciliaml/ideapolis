@@ -18,7 +18,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 * Dkiouak El Bourni Dkiouak Salma 
 * Li Xiaohui
 
-**Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas con enfermedades mentales, creando así una comunidad de apoyo, a la vez motivador e inspirador para mejorar la salud mental.
+**Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas que sufren estres, depresión o ansiedad generada por la pandemia, creando así una comunidad de apoyo, a la vez motivador e inspirador para mejorar la salud mental.
 
 **logotipo** : ![TIME FOR LIFE/Escucha y sé escuchado](https://user-images.githubusercontent.com/81180479/112031833-0e59d900-8b3c-11eb-8d7f-da2d5a1df61a.png)
 
@@ -39,6 +39,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 * Instagram
 * Twitter
 * Pinterest
+* Página web oficial
+* Spotify
 
 
 
@@ -59,11 +61,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** : Debido a la pandemia, la presión psicológica que viven las personas cada día, necesitan de salir de este entorno y recargar las energías.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... ¿ por qué consideras interesante ? : Ofrecemos un entrono motivador y seguro a través de la creación de una App que enviará cada mañana una frase motivadora a nuestros usuarios, también ofrecemos un espacio de comunicación para compartir sus problemas o intereses, además de ofrecer podcasts relacionados con meditación, yoga o discusiones sobre temas de interes de nuestros usuarios. Junto un espacio donde psicologos profesionales ponen su información brindando así la oportunidad de que nuestros usuarios accedan sin ninguna dificultad a sus servicios.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Personas de todas edades que necesiten un entorno nuevo y fresco para salir de la rutina propiciada por el Covid-19, ya sufran de ansiedad o estres... conociendo a gente con situaciones similares o cómo una oportunidad de mejorar tu salud mental dentro de una comunidad.
 
 
 
@@ -73,21 +75,31 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+### (idea de productos que vamos a ofrecer en nuestra página web...): en la página web queremos ofrecer los siguientes productos o servicios a nuestros usuarios: 
+  
+    * Home page o portada: con info relevante y una interfaz fácil de entender y utilizar, siendo a la ez atractiva. Además de añadir frases motivadoras en un banner.
+    * Foro: donde nuestros usuarios pueden crear un hilo de conversición sobre temas o intereses que le gusten, de cómo se sienten hoy, nuevos retos que se han propuesto, etc.
+    * Podcast: Cada semana subiremos podcast relacionados con yoga, meditaciones guiadas, sonidos ambientales e incluso cada semana se dará la oportunidad a los usuarios de votar entre varias propuestas presentadas por la comunidad mediante hashtags, eligiendo así el tema principal del podcast semanal. Además daremos libertad a nuestros usuarios de proponer crear contenidos de este tipo siguiendo nuestras pautas y siguiendo nuestras políticas para así asegurarnos de que el contenido creado es seguro y respetuoso para los que integran la comunidad.
+    * Profesionales: Punto de encuentro que ofrecemos a psicólogos para hacerse conocer y brindar su información para prestar servicios, dando así la oportunidad a nuestros usuarios de acceder a profesionales en salud mental si creen necesario su ayuda.
+    * Sobre nosotros: Presentamos al equipo que crea este proyecto, porqué creimos necesario esta plataforma y un poco sobre nosotros.
+    * Redes sociales en las que estamos presentes y sus links...
+
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+* redes sociales : Instagram (post sobre salud mental de fuentes oficiales, frases que animan o motivan, memes...) , Twitter (hashtags y publicaciones sobre la frase motivadora del día, curiosidades graciosas o interesantes, hacer conocer los contenidos creados durante la semana), Spotify (podcast de yoga, meditación, sonidos ambientales y nuestro podcast semanal), Pinterest (tablón con ideas, retos, frases motivadoras)
 
-* publicidad: banner (... ) 
+* publicidad: banner (... )  (Xiui)
 
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
+1* Estudio del Mercado
+2* DAFO: estudiamos mediante un análisis DAFO (poner...el DAFO que he hecho)
+3* Cuestionarios a conocidos (como estaban antes de la pandemia vs ahora)
+4* Estudio de comentarios relacionados con temas de motivación, salud mental, etc, en redes sociales 
+5* Para medir éxito de nuestra plataforma realizar análisis de la interacción de nuestros usuarios en nuestra redes sociales (podcast, like de fotos, hashtags)
 
 
 
