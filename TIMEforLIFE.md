@@ -77,7 +77,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### (idea de productos que vamos a ofrecer en nuestra página web...): 
 
-######(En la página web queremos ofrecer los siguientes productos o servicios a nuestros usuarios: 
+###### (En la página web queremos ofrecer los siguientes productos o servicios a nuestros usuarios: 
   
   - *Home page o portada: con info relevante y una interfaz fácil de entender y utilizar, siendo a la ez atractiva. Además de añadir frases motivadoras en un banner.*
   - *Foro: donde nuestros usuarios pueden crear un hilo de conversición sobre temas o intereses que le gusten, de cómo se sienten hoy, nuevos retos que se han propuesto, etc.*
