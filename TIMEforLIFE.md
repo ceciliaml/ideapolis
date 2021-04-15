@@ -90,6 +90,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * **redes sociales** : Instagram (post sobre salud mental de fuentes oficiales, frases que animan o motivan, memes...) , Twitter (hashtags y publicaciones sobre la frase motivadora del día, curiosidades graciosas o interesantes, hacer conocer los contenidos creados durante la semana), Spotify (podcast de yoga, meditación, sonidos ambientales y nuestro podcast semanal), Pinterest (tablón con ideas, retos, frases motivadoras)
 
+  * ![insta](https://user-images.githubusercontent.com/81180479/114855807-a323bf80-9de6-11eb-9d23-2eb1bdce92ed.jpg))
+  * ![twitter](https://user-images.githubusercontent.com/81180479/114855866-b171db80-9de6-11eb-922d-17ed1d1bfa3c.jpg)
+  * ![Podcast](https://user-images.githubusercontent.com/81180479/114855884-b6368f80-9de6-11eb-9811-577c333bc5ba.jpg)
+
+
 * **publicidad**: banner (... )  (Xiui)
 
 
