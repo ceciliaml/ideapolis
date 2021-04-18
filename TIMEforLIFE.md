@@ -77,7 +77,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### (idea de productos que vamos a ofrecer en nuestra página web...): 
 
-###### (En la página web queremos ofrecer los siguientes productos o servicios a nuestros usuarios: 
+###### En la página web queremos ofrecer los siguientes productos o servicios a nuestros usuarios: 
   
   - *Home page o portada: con info relevante y una interfaz fácil de entender y utilizar, siendo a la ez atractiva. Además de añadir frases motivadoras en un banner.*
   - *Foro: donde nuestros usuarios pueden crear un hilo de conversición sobre temas o intereses que le gusten, de cómo se sienten hoy, nuevos retos que se han propuesto, etc.*
@@ -86,7 +86,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
   - *Sobre nosotros: Presentamos al equipo que crea este proyecto, porqué creimos necesario esta plataforma y un poco sobre nosotros.*
   - *Redes sociales en las que estamos presentes y sus links...)*
 
-* **Imagen visual (Portada / Diseño de Interfaz) y herramienta usada**
+* **Imagen visual (Portada / Diseño de Interfaz) y herramienta usada**: WIX con la cual hemos procedido a realizar una página web, prototipando así nuestra idea.
 
 * **redes sociales** : Instagram (post sobre salud mental de fuentes oficiales, frases que animan o motivan, memes...) , Twitter (hashtags y publicaciones sobre la frase motivadora del día, curiosidades graciosas o interesantes, hacer conocer los contenidos creados durante la semana), Spotify (podcast de yoga, meditación, sonidos ambientales y nuestro podcast semanal), Pinterest (tablón con ideas, retos, frases motivadoras)
 
@@ -95,7 +95,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
   * ![Podcast](https://user-images.githubusercontent.com/81180479/114855884-b6368f80-9de6-11eb-9811-577c333bc5ba.jpg)
 
 
-* **publicidad**: banner (... )  (Xiui)
+* **publicidad**: banner (... ) 
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -103,8 +103,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 1. **Estudio del Mercado**
-2. **DAFO**: estudiamos mediante un análisis DAFO (poner...el DAFO que he hecho)
-3. **Cuestionarios a conocidos**: (como estaban antes de la pandemia vs ahora)
+2. **DAFO**: estudiamos mediante un análisis DAFO,para tener una visión clara de nuestras fortalezas y oportunidades y cómo poder hacer frente a las amenazas y debilidades que podamos encontrar.
+3. **Cuestionarios a conocidos**: realización de cuestionarios con la pregunta "¿cómo estaban antes de la pandemia vs ahora?
 4. **Estudio de comentarios**: relacionados con temas de motivación, salud mental, etc, en redes sociales 
 5. **Análisis de la interacción de nuestros usuarios**: Para medir éxito de nuestra plataforma realizar análisis de la interacción de nuestros usuarios en nuestra redes sociales (podcast, like de fotos, hashtags)
 
@@ -115,9 +115,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 * Grado de consecución del proyecto 
+
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+
+
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?) psicólogos profesionales estarían interesados en participar ya que tienen la oportunidad de anunciarse en nuestra plataforma, por lo que es una forma de publicidad y promoción para ellos, llengando de forma directa a personas que quieran recibir terapia.
 
 
 Referencias y recursos: 
