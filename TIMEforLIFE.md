@@ -22,6 +22,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **logotipo** : ![TIME FOR LIFE/Escucha y sé escuchado](https://user-images.githubusercontent.com/81180479/112031833-0e59d900-8b3c-11eb-8d7f-da2d5a1df61a.png)
 
+**imagen cabecera** :  ![Escucha y sé  esuchado](https://user-images.githubusercontent.com/81180479/116435844-164c1d80-a84c-11eb-8ea0-bad75f94377e.png)
 
 **Slogan** (frase motivadora/inspiradora): LIFE, *escucha y sé escuchado*.
 
@@ -38,11 +39,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 *  :octocat: (https://github.com/ceciliaml/ideapolis) 
 * Instagram
 * Twitter
-* Pinterest
 * Página web oficial
 * Spotify
-
-
 
 --- 
 
@@ -60,16 +58,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * (...)
 * 
 
-
 **Necesidad/oportunidad** : Debido a la pandemia, la presión psicológica que viven las personas cada día, necesitan de salir de este entorno y recargar las energías.
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? : Ofrecemos un entrono motivador y seguro a través de la creación de una App que enviará cada mañana una frase motivadora a nuestros usuarios, también ofrecemos un espacio de comunicación para compartir sus problemas o intereses, además de ofrecer podcasts relacionados con meditación, yoga o discusiones sobre temas de interes de nuestros usuarios. Junto un espacio donde psicologos profesionales ponen su información brindando así la oportunidad de que nuestros usuarios accedan sin ninguna dificultad a sus servicios.
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Personas de todas edades que necesiten un entorno nuevo y fresco para salir de la rutina propiciada por el Covid-19, ya sufran de ansiedad o estres... conociendo a gente con situaciones similares o cómo una oportunidad de mejorar tu salud mental dentro de una comunidad.
-
-
-
-
 
 ### Etapa 2: Prototipar / productos 
 
@@ -87,6 +80,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
   - *Redes sociales en las que estamos presentes y sus links...)*
 
 * **Imagen visual (Portada / Diseño de Interfaz) y herramienta usada**: WIX con la cual hemos procedido a realizar una página web, prototipando así nuestra idea.
+
+* **Página web** : https://salmadkiouak460.wixsite.com/salma-dk
 
 * **redes sociales** : Instagram (post sobre salud mental de fuentes oficiales, frases que animan o motivan, memes...) , Twitter (hashtags y publicaciones sobre la frase motivadora del día, curiosidades graciosas o interesantes, hacer conocer los contenidos creados durante la semana), Spotify (podcast de yoga, meditación, sonidos ambientales y nuestro podcast semanal), Pinterest (tablón con ideas, retos, frases motivadoras)
 
