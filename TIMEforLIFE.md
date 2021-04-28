@@ -23,6 +23,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 https://user-images.githubusercontent.com/81180479/116450835-118f6580-a85c-11eb-88cf-b49d8e940a1e.mp4
 
 
+
+
 **Resumen** : Nuestro poyecto trata de crear un espacio seguro para personas que sufren estres, depresión o ansiedad generada por la pandemia, creando así una comunidad de apoyo, a la vez motivador e inspirador para mejorar la salud mental.
 
 **logotipo** : ![TIME FOR LIFE/Escucha y sé escuchado](https://user-images.githubusercontent.com/81180479/112031833-0e59d900-8b3c-11eb-8d7f-da2d5a1df61a.png)
