@@ -97,7 +97,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
   * ![Podcast](https://user-images.githubusercontent.com/81180479/114855884-b6368f80-9de6-11eb-9811-577c333bc5ba.jpg)
 
 
-* **publicidad**: banner (... ) 
+* **publicidad**: hemos hecho un boceto de banner que sería uno de los que podríamos utilizar para publicitarnos y hacernos conocer
+![Banner](https://user-images.githubusercontent.com/81180479/116532944-1e09d180-a8e1-11eb-890b-029cc30b542d.png)
+
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -116,22 +118,12 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
+**Grado de consecución del proyecto**: El grado de consecución del proyecto podríamos decir que es satisfactorio, gracias al notable esfuerzo de cada miembro del grupo, que ha intentado aportar lo mejor que tiene. 
 
 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+**Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )** : Respecto a los problemas que hemos enfrentado, algunos han sido técnicos como los problemas de conexión, problemas en el ordenador, falta de algunos materiales o recursos para recurrir durante la investigación... El problema que más nos preocupaba al principio era la ideal inicial que teniamos ya que al principio cada miembro del equipo tenía diferentes ideas e interpretaciones distintas de lo que buscabamos en general. Por lo cual tuvimos que exponer nuestras ideas en reuniones de grupo para llegar a un consenso que culminó con la elección final de nuestro proyecto. 
+
+**Propuestas de mejora (por qué consideras que merece la pena continuar)**: El principal motivo y énfasis de continuar con esta idea de negocio es que, debido a la situación que acarrea a día de hoy nuestro mundo debido al covid-19, gran parte de la población se encuentra en una situación psicológica crítica, es decir, esta situación ha hecho que nos sintamos solos y vulnerables en muchos aspectos en los que antes éramos más fuertes. Gracias a nuestra idea, la población podrá encontrar un lugar en el que abrirse para poder desahogarse y hablar sobre los problemas que esta situación les está generando, haciendo así una vía de transmisión con su entorno para que podamos expandirnos y llegar a una clientela de mayor nivel numérico. Por esto consideremos fundamental continuar con “TIME FOR LIFE” como ayuda tanto presente como futura de las secuelas psicológicas que esta situación nos está generando día a día.
 
 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-
-
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?) psicólogos profesionales estarían interesados en participar ya que tienen la oportunidad de anunciarse en nuestra plataforma, por lo que es una forma de publicidad y promoción para ellos, llengando de forma directa a personas que quieran recibir terapia.
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
+**Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)** :Psicólogos profesionales estarían interesados en participar ya que tienen la oportunidad de anunciarse en nuestra plataforma, por lo que es una forma de publicidad y promoción para ellos, llegando de forma directa a personas que quieran o consideren necesario recibir terapia. Por otro lado, consideremos que la gente que haya superado crisis psicológicas derivadas de la pandemia, se podría interesar también a la hora de implantar charlas sobre su propia experiencia y consejos que ellos puedan facilitar a nuestros clientes. Mencionar, por último, que la participación en nuestras sesiones de influencers, ayudaría de manera bilateral ya que ellos nos harían publicidad en sus canales de redes sociales, y de igual manera nosotros también fomentaríamos en nuestras redes sus participaciones con nosotros.
